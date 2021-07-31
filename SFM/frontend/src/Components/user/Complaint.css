@@ -1,0 +1,72 @@
+.card-header{
+    margin-left: 300px;
+    position: absolute;
+margin-top: -330px; 
+font-size:xx-large;
+}
+.card-body{
+    margin-left: 300px;
+    position: static;
+}
+.l{
+    margin-left: -200px;
+    position: absolute;
+    margin-top: -240px; 
+    font-size:x-large;
+}
+.m{
+    border-width:5px;  
+    border-style:inset;
+    border-width: 100px;
+  
+}
+.form-control{
+    margin-left: -200px;
+    position: absolute;
+    margin-top: -220px; 
+    font-size: medium;
+}
+.col{
+    margin-left: -200px;
+    position: absolute;
+    margin-top: -230px; 
+}
+.l1{
+    margin-left: 300px;
+    position: absolute;
+    margin-top: 60px; 
+    font-size: larger;
+}
+.md{
+    margin-left: 300px;
+    position: absolute;
+    margin-top: 100px; 
+    
+}
+.l2{
+    margin-left: 100px;
+    position: absolute;
+    margin-top: -50px; 
+    font-size: larger;
+}
+.day{
+    margin-left: 250px;
+    position: absolute;
+    margin-top: -50px; }
+
+
+ .btn{
+    
+    
+     width:150px;
+      height:100px; 
+      padding:5px; 
+      margin-left: -1000px;
+     border-radius: 5px;
+    margin-top: 35px;
+      text-align:center; 
+      text-decoration:black; 
+     background-color: rgb(82, 158, 19);  }
+  
+
+    
