@@ -1,0 +1,35 @@
+.box-example {
+    width: 1000px;
+    height:580px;
+    border: 20px solid grey;
+    padding: 100px;
+    margin-top:-270px;
+    margin-left: 350px;
+    text-align:100px;
+    border-radius: 25px; 
+    border-style:inset;
+
+  } 
+   .table{
+    margin-left: 50px;
+   }
+   .logo{
+     height:150px;
+     width: 140px;
+     margin-top: -80px;
+   }
+.btn{
+
+    width:150px;
+     height:50px; 
+     padding:5px; 
+     margin-left: 300px;
+    border-radius: 5px;
+   margin-top: 20px;
+     text-align:center; 
+     text-decoration:black; 
+    background-color: rgb(82, 158, 19); 
+}
+.fname{
+  margin-left: -50px;
+}
